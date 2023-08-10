@@ -1,6 +1,6 @@
-# Toy robot app
+# Toy robot game
 
-The Toy Robot App is a Python application that simulates a toy robot moving on a table board. It has been tested and optimized for Python 3. If you are using Python 2, please be aware that there might be compatibility issues.
+The Toy Robot Game is a Python application that simulates a toy robot moving on a table board. It has been tested and optimized for Python 3. If you are using Python 2, please be aware that there might be compatibility issues.
 
 ## How to run
 
